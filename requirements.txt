@@ -1,0 +1,9 @@
+dlib
+face-recognition
+face-recognition-models
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas
+Pillow
+streamlit
+setuptools<81
